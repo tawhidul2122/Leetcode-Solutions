@@ -7,7 +7,7 @@ from Explore
 * Sorting 
 
 Problems list 
-* two sum 
+
 
 
 
