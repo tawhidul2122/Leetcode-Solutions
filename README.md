@@ -1,2 +1,2 @@
 ### Leetcode-Solutions
-Algorithmic Problem solving from leetcode
+Algorithmic Problem solving 
