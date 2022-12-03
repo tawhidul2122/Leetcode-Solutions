@@ -4,7 +4,7 @@ public:
         int _min = min(left.size(), right.size());
         for(int i = 0; i < _min; i++){
             if(left[i] != right[i]){
-                //i is the length of the resulting substring
+                
                 return left.substr(0, i);
             }
         }
