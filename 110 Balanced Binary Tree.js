@@ -4,8 +4,9 @@ var isBalanced = function (root) {
 
     const get_heights = (node, height) => {
 
-        if (!node) {
+        if (!node) {//
             return 0;
+
         }
 
         const left_height  = get_heights(node.left, height + 1);
